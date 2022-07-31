@@ -73,21 +73,21 @@ Dizi sıralandıktan sonra 18 sayısı average case kapsamına girer.
  
  2)5 7'den küçük olduğu için sola yazılır.
  
- 3) 1 hem 7 hem 5'ten küçük bu nedenle en sola yazılır.
+ 3)1 hem 7 hem 5'ten küçük bu nedenle en sola yazılır.
  
  4)8 7'den büyüktür sağa yazılır.
  
- 5) 3 , 5 ve 7'den küçük fakat 1'den büyüktür . 1'in sağına yazılır.
+ 5)3 , 5 ve 7'den küçük fakat 1'den büyüktür . 1'in sağına yazılır.
  
  6)6 7'den küçük fakat 5'ten büyüktür . 5'in sağına yazılır.
  
  7)0 şu ana kadar gelen en küçük sayıdır . 1'in soluna yazılır.
  
- 8) 9 şu ana kadar gelen en büyük sayıdır . 8'in sağına yazılır.
+ 8)9 şu ana kadar gelen en büyük sayıdır . 8'in sağına yazılır.
  
- 9) 4 , 5 ve 7 den küçük fakat 1 ve 3 den büyüktür . 3'ün sağına yazılır.
+ 9)4 , 5 ve 7 den küçük fakat 1 ve 3 den büyüktür . 3'ün sağına yazılır.
  
- 10) 2 , 5 ve 7 den küçüktür . 1den büyük fakat 3'ten küçüktür . Bu nedenle 3'ün sağına yazılır.
+ 10)2 , 5 ve 7 den küçüktür . 1den büyük fakat 3'ten küçüktür . Bu nedenle 3'ün sağına yazılır.
  
                 7
               /   \
